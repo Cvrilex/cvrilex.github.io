@@ -1,0 +1,20 @@
+h1{
+  text-align: center;
+  color: red;
+  font-size: 60px;
+}
+.box{
+  /* background: url("../img/xidada.jpg"); */
+  position:absolute;
+  text-align: center;
+  width:1080px;
+  height:1920px;
+  margin: 5px;
+  padding: 5px;
+  display: table-cell;
+  vertical-align: middle;
+}
+img{
+  margin:0px auto;
+  display:block;
+}
